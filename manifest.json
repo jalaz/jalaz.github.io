@@ -1,4 +1,5 @@
 {
+<<<<<<< HEAD
     "name": "cyg",
     "short_name": "cyg",
     "icons": [
@@ -19,3 +20,20 @@
     "display": "standalone",
     "orientation": "portrait"
 }
+=======
+  "name": "cyg",
+  "short_name": "cyg",
+  "start_url": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#fff",
+  "theme_color": "#673ab8",
+  "icons": [
+    {
+      "src": "/assets/icons/icon.png",
+      "type": "image/png",
+      "sizes": "256x256"
+    }
+  ]
+}
+>>>>>>> 4d33560e7f7c852cdf9a3bb6a019cfa2e4de693c
